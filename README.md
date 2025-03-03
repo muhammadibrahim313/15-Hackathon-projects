@@ -153,4 +153,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-⭐️ From [Your Name](https://github.com/username) with 💻
+⭐️ From [MIQ](https://github.com/username) with 💻
