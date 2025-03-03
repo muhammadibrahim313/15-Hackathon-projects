@@ -2,7 +2,7 @@
 
 A comprehensive collection of innovative projects developed during various hackathons, showcasing a diverse range of technologies and solutions.
 
-![Banner Image](https://raw.githubusercontent.com/username/15-hackathon-projects/main/assets/banner.png)
+![Banner Image](https://cdn.leonardo.ai/users/7e9e2c74-137e-4d06-ad43-401a2a0c7509/generations/90912593-1af4-481b-a83d-54609ea754b0/Leonardo_Phoenix_10_A_futuristic_and_dynamic_digital_banner_sh_1.jpg)
 
 ## 🎖️ Award-Winning Projects
 
